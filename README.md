@@ -8,7 +8,7 @@ Me apasiona la programación y aprender a mejorar mi codigo día a día.
   
  ## Skills:  
  [![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]  
- [![Django](https://img.shields.io/badge/-Django-brightgreen)
+ [![Django](https://img.shields.io/badge/-Django-brightgreen)]
   
  ## Me podes en contrar en:  
  [![Linkedin_Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jimena-anahí-degiorgi/ "Linkedin" )
