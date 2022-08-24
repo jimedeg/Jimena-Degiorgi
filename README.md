@@ -1,6 +1,6 @@
-## 👋🏻Hola! Soy Jimena Degiorgi. Este es mi repositorio! 
+## <_ 👋🏻Hola! Soy Jimena Degiorgi. Este es mi repositorio! 
 
-## Acerca de mi:  
+## <_ Acerca de mi:  
 Soy programadora trainee de Python y me encuentro estudiando Desarrollo web.  
 Me apasiona la programación y aprender a mejorar mi codigo día a día.  
   
