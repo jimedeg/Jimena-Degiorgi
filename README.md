@@ -7,7 +7,7 @@ Me apasiona la programación y aprender a mejorar mi codigo día a día.
 🎮 Amo los videojuegos, en mi tiempo libre me gusta ponerme a jugar. En un futuro me gustaría programar algun juego...  
   
  ## Skills:  
- [Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)
+ [![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](#)
  [![Django](https://img.shields.io/badge/-Django-brightgreen)]
   
  ## Me podes en contrar en:  
