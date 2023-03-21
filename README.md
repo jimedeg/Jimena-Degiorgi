@@ -12,6 +12,7 @@ Me apasiona la programación y aprender a mejorar mi codigo día a día.
  [![Html5 Follow](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=101010)](#)  
  [![css3 Follow](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=101010)](#)  
  [![Bootstrap Follow](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)](#)  
+ [![Github Follow](https://img.shields.io/badge/Github-563D7C?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](#)
  
   
  ## Me podes en contrar en:  
